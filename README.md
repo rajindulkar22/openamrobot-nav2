@@ -232,7 +232,7 @@ Parameters for all Nav2 nodes (planner, controller, AMCL, BT navigator, etc.). E
 
 ## Related Packages
 
-- [`omr_description`](../omr_description/) — URDF/SDF robot model and Gazebo simulation bringup
+- [`openamrobot-simulation`](https://github.com/rajindulkar22/openamrobot-simulation.git) — URDF/SDF robot model and Gazebo simulation bringup
 
 ---
 
