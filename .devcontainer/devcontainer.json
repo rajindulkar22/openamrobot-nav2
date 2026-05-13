@@ -1,0 +1,16 @@
+{
+  "name": "OpenAMRobot Simulation ROS2 Jazzy",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-iot.vscode-ros",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "redhat.vscode-yaml"
+      ]
+    }
+  }
+}
